@@ -1,0 +1,146 @@
+[
+    [
+        "name",
+        "age",
+        "height(cm)",
+        "sex"
+    ],
+    {
+        "name": "John Doe",
+        "age": "30",
+        "height(cm)": "175",
+        "sex": "male"
+    },
+    {
+        "name": "Jane Smith",
+        "age": "25",
+        "height(cm)": "169",
+        "sex": "female"
+    },
+    {
+        "name": "Michael Johnson",
+        "age": "35",
+        "height(cm)": "190",
+        "sex": "female"
+    },
+    {
+        "name": "Emily Anderson",
+        "age": " 28",
+        "height(cm)": " 163",
+        "sex": " female"
+    },
+    {
+        "name": "David Williams",
+        "age": " 42",
+        "height(cm)": " 180",
+        "sex": " male"
+    },
+    {
+        "name": "Samantha Brown",
+        "age": " 31",
+        "height(cm)": " 172",
+        "sex": " female"
+    },
+    {
+        "name": "Matthew Davis",
+        "age": " 39",
+        "height(cm)": " 185",
+        "sex": " male"
+    },
+    {
+        "name": "Olivia Thompson",
+        "age": " 27",
+        "height(cm)": " 167",
+        "sex": " female"
+    },
+    {
+        "name": "Benjamin Clark",
+        "age": " 33",
+        "height(cm)": " 176",
+        "sex": " male"
+    },
+    {
+        "name": "Ava Martinez",
+        "age": " 29",
+        "height(cm)": " 170",
+        "sex": " female"
+    },
+    {
+        "name": "Ethan Rodriguez",
+        "age": " 36",
+        "height(cm)": " 182",
+        "sex": " male"
+    },
+    {
+        "name": "Chloe Walker",
+        "age": " 26",
+        "height(cm)": " 165",
+        "sex": " female"
+    },
+    {
+        "name": "James Lewis",
+        "age": " 40",
+        "height(cm)": " 188",
+        "sex": " male"
+    },
+    {
+        "name": "Sophia Hernandez",
+        "age": " 24",
+        "height(cm)": " 160",
+        "sex": " female"
+    },
+    {
+        "name": "Alexander Taylor",
+        "age": " 37",
+        "height(cm)": " 178",
+        "sex": " male"
+    },
+    {
+        "name": "Mia Wilson",
+        "age": " 31",
+        "height(cm)": " 168",
+        "sex": " female"
+    },
+    {
+        "name": "Daniel Moore",
+        "age": " 43",
+        "height(cm)": " 190",
+        "sex": " male"
+    },
+    {
+        "name": "Harper Lee",
+        "age": " 30",
+        "height(cm)": " 171",
+        "sex": " female"
+    },
+    {
+        "name": "Samuel Davis",
+        "age": " 35",
+        "height(cm)": " 175",
+        "sex": " male"
+    },
+    {
+        "name": "Isabella Thompson",
+        "age": " 28",
+        "height(cm)": " 163",
+        "sex": " female"
+    },
+    {
+        "name": "Joseph Rodriguez",
+        "age": " 38",
+        "height(cm)": " 180",
+        "sex": " male"
+    },
+    {
+        "name": "Grace Turner",
+        "age": " 27",
+        "height(cm)": " 169",
+        "sex": " female"
+    },
+    {
+        "name": "Henry Adams",
+        "age": " 32",
+        "height(cm)": " 183",
+        "sex": " male"
+    }
+]
